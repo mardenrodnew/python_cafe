@@ -1,5 +1,3 @@
-
-
 matriz = []
 m = int(input("Digite o número de linhas da matriz: "))
 n = int(input("Digite o número de colunas da matriz: "))
